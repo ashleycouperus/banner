@@ -25,9 +25,12 @@ html {
 }
 
 .banner {
-
+  position: relative;
 }
 
 .banner-content {
-
+  position: absolute;
+  bottom: 10px;
+  color: #fff;
+  font-family: "PT Sans", sans serif;
 }
